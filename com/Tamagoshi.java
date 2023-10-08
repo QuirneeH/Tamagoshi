@@ -1,3 +1,4 @@
+package com;
 //IMPORTES
 import java.util.Random;
 import java.util.Scanner;
